@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@600&family=Otomanopee+One&display=swap');
+
+.objectImage {
+    width: 600px;
+    height: 275px;
+    object-fit: cover;
+    object-position: top;
+}
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+    font-family: 'Mulish', sans-serif;
+
+}
+
+.img {
+    width: 100%;
+    max-width: 500px;
+    text-align: left;
+    margin: 80px 0px 0px 40px;
+}

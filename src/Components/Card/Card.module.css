@@ -1,0 +1,18 @@
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    text-align: center;
+    justify-content: end;
+    margin-right: 2rem;
+    padding: 30px 0px 30px 100px;
+    width: 100%;
+}
+
+.btnContent{
+    display: flex;
+}
+.btn{
+    width: 50%;
+    margin: 10px;
+}
